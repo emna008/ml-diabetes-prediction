@@ -1,6 +1,6 @@
 # Projet Machine Learning — Prédiction du diabète
 
-Projet end-to-end du module **Machine Learning / Deep Learning**, encadré par **M. Abdallah Khemais** (`abdallah.khemais@gmail.com`).
+Projet end-to-end du module **Machine Learning / Deep Learning**, 
 
 Classification binaire visant à prédire la présence ou l'absence de diabète à partir de mesures cliniques.
 
@@ -45,7 +45,6 @@ ML/
 │   └── best_model.joblib
 ├── presentation/
 │   ├── soutenance.pptx
-│   └── preparation_orale.md
 ├── app/
 │   └── streamlit_app.py
 ├── src/
@@ -126,13 +125,12 @@ streamlit run app/streamlit_app.py
 ## Soutenance
 
 - Présentation : `presentation/soutenance.pptx` (8 slides, ~3 min)
-- Préparation Q&R : `presentation/preparation_orale.md`
 
 ---
 
 ## Auteur
 
-**Emna** — Projet solo, module Machine Learning, encadré par M. Abdallah Khemais.
+**Emna** — Projet solo, module Machine Learning,
 
 ---
 
