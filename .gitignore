@@ -13,7 +13,6 @@ env/
 .ipynb_checkpoints/
 
 # IDE
-.vscode/
 .idea/
 
 # OS
@@ -22,3 +21,7 @@ Thumbs.db
 
 # Data (keep diabetes.csv tracked; ignore large downloads)
 *.zip
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
